@@ -6,3 +6,16 @@ to do lists and timelines
 including designing a contact form, main services
 
 
+login information to pennyyu.com
+
+login email: jiehan_zhou@163.com
+password: World09C
+
+wp-admin: admin
+password: World09C
+
+the issues: 
+1. En/CN version needed(add the language choice) 
+2. currnet theme is Astra, but the footer is marked by the theme (need to remove it)
+
+Zhiqiang, please help with a check about the two above issue. 
