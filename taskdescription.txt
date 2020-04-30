@@ -19,3 +19,9 @@ the issues:
 2. currnet theme is Astra, but the footer is marked by the theme (need to remove it)
 
 Zhiqiang, please help with a check about the two above issue. 
+
+Summary
+1. take action button removed, footer changed
+2. wp admin email changed to info@pennyyu.com, login via webmail with the same password (jiehan.zhou, changrong.yu)
+3. now En/CN needed
+
