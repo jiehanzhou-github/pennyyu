@@ -25,3 +25,17 @@ Summary
 2. wp admin email changed to info@pennyyu.com, login via webmail with the same password (jiehan.zhou, changrong.yu)
 3. now En/CN needed
 
+7/21/2020
+add online payment method to the website following the steps
+1. ask whc.ca to add free SSL for the domain
+2. add stripe payments plugin
+3. create a stripe account with the common pw !
+3.0 activate the account with bank information and address info
+3. setting stripe payment with live keys
+4. add a product, e.g. proofreading giving the price, etc. 
+5. add a new page with short code of the product
+6. view products and the orders from the dashboard
+
+new problem is to remove the subscribe popup
+
+
