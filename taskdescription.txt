@@ -36,6 +36,10 @@ add online payment method to the website following the steps
 5. add a new page with short code of the product
 6. view products and the orders from the dashboard
 
-new problem is to remove the subscribe popup
+new problem is to remove the subscribe popup, remmber now.
+1. convertful login
+2. inactive widgets - pop-ups
+3. also chimpmail helps email management
+
 
 
